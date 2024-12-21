@@ -1,0 +1,24 @@
+.app-container{
+    display:flex;
+}
+ .content{
+    width:100%;
+} 
+.sidebaar{
+    min-height: 800px;
+    background-color: aqua;
+}
+.post-card{
+    margin : 20px 50px;
+}
+.hashtag{
+    margin:0px 3px;
+}
+.reactions{
+    margin:15px 0px;
+}
+.create-post{
+    width: 80%;
+    margin-top: 50px;
+    margin-left: 10%;
+}
